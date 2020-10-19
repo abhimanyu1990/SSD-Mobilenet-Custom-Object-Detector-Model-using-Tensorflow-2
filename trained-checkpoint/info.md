@@ -1,0 +1,1 @@
+In this directory checkpoints will be stored by the model_main_tf2.py script while training the model. These checkpoints will be later use by exporter_main_tf2.py script for exporting the model into exported-model directory
